@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goodLuck", "goodLuck\goodLuck.csproj", "{AAEDBB19-FF9A-4C9F-AE42-E244900F1AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goodLuckTest", "goodLuckTest\goodLuckTest.csproj", "{F2E6B60C-5AE2-49B4-B5AA-784DCF766DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEDBB19-FF9A-4C9F-AE42-E244900F1AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEDBB19-FF9A-4C9F-AE42-E244900F1AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEDBB19-FF9A-4C9F-AE42-E244900F1AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEDBB19-FF9A-4C9F-AE42-E244900F1AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E6B60C-5AE2-49B4-B5AA-784DCF766DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E6B60C-5AE2-49B4-B5AA-784DCF766DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E6B60C-5AE2-49B4-B5AA-784DCF766DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E6B60C-5AE2-49B4-B5AA-784DCF766DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
