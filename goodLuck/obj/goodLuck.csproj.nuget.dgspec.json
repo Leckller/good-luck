@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ruy/backEndRuy/goodLuck/goodLuck/goodLuck.csproj": {}
+    "C:\\Users\\gustt\\projetos\\good-luck\\goodLuck\\goodLuck.csproj": {}
   },
   "projects": {
-    "/home/ruy/backEndRuy/goodLuck/goodLuck/goodLuck.csproj": {
+    "C:\\Users\\gustt\\projetos\\good-luck\\goodLuck\\goodLuck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ruy/backEndRuy/goodLuck/goodLuck/goodLuck.csproj",
+        "projectUniqueName": "C:\\Users\\gustt\\projetos\\good-luck\\goodLuck\\goodLuck.csproj",
         "projectName": "goodLuck",
-        "projectPath": "/home/ruy/backEndRuy/goodLuck/goodLuck/goodLuck.csproj",
-        "packagesPath": "/home/ruy/.nuget/packages/",
-        "outputPath": "/home/ruy/backEndRuy/goodLuck/goodLuck/obj/",
+        "projectPath": "C:\\Users\\gustt\\projetos\\good-luck\\goodLuck\\goodLuck.csproj",
+        "packagesPath": "C:\\Users\\gustt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gustt\\projetos\\good-luck\\goodLuck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ruy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gustt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.424\\RuntimeIdentifierGraph.json"
         }
       }
     }
